@@ -1,0 +1,19 @@
+{
+  "name": "nft-sticky-bandits",
+  "version": "1.0.0",
+  "description": "Educational script to show how to retrieve NFT metadata from ERC-721 contracts.",
+  "main": "index.js",
+  "repository": "https://github.com/Ty-Sir/nft-sticky-bandits",
+  "author": "Ty-Sir",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "ethers": "^5.5.4"
+  }
+}
+
+
