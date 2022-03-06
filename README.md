@@ -2,6 +2,7 @@
 Educational script to show how to retrieve NFT metadata from ERC-721 contracts.
 
 ## Getting Started
+This was built using Node.js v16.13.1
 
 Clone the repo: <br>
 ``` 
