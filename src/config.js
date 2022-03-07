@@ -1,9 +1,10 @@
 const ethers = require('ethers')
 
-const RPC = "YOUR_RPC_URL"
+const RPC = "YOUR_CUSTOM_RPCNODE_URL";
 
 //erc-721 compliant token contract address
 const address = "";
+
 //set how many you would like to have locally
 const collectionSize = 10;
 
