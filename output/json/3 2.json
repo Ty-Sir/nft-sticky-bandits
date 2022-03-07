@@ -1,0 +1,15 @@
+{
+  "name": "CloneX #3",
+  "description": "🧬 CLONE X 🧬\n\n20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸\n\nIf you own a clone with even one Murakami trait please read the terms regarding third-party content here: https://rtfkt.com/legal-2B.\n\nYou are not entitled to a commercial license if you own an avatar with any traits created by Murakami.",
+  "attributes": [
+    { "trait_type": "DNA", "value": "Murakami" },
+    { "trait_type": "Eye Color", "value": "RNBW" },
+    { "trait_type": "Clothing", "value": "RTFKT x TM RNBW FLOWER PFA" },
+    { "trait_type": "Hair", "value": "PURP KO2 Tiara" },
+    { "trait_type": "Mouth", "value": "Tan Tan Bo" },
+    { "trait_type": "Back", "value": "GRN UNDRWRLD WINGZ" },
+    { "trait_type": "Type", "value": "ARTIST EDITION" },
+    { "trait_type": "Type", "value": "MURAKAMI DRIP" }
+  ],
+  "image": "https://clonex-assets.rtfkt.com/images/3.png"
+}

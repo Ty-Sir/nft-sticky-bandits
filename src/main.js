@@ -10,7 +10,7 @@ const imageArray = [];
 let startingTokenId = 0
 
 const _calcRateLimit = () =>{
-  return Math.round(((rateLimit / 60) / 60) * 1000);
+  return Math.round((rateLimit / 60));
 }
 
 const buildSetup = () => {
